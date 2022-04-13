@@ -1,5 +1,5 @@
 git init
 git add -A
-git commit -m "2022.4.12"
-git push -u origin
+git commit -m "2022.4.13"
+git push -f origin
  
